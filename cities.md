@@ -6,3 +6,4 @@ Cities I'd like to visit:
 * Berlin
 * Istanbul
 * Copenhagen
+* New York City
