@@ -4,3 +4,4 @@ Cities I'd like to visit:
 * Rome
 * Stockholm
 * Berlin
+* Copenhagen
