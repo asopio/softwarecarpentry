@@ -5,3 +5,4 @@ Cities I'd like to visit:
 * Stockholm
 * Berlin
 * Istanbul
+* Copenhagen
